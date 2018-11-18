@@ -1,0 +1,2 @@
+# MemeTrader
+Python MemeTrading Bot
